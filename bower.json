@@ -1,0 +1,25 @@
+{
+  "name": "rsvp.js-externs",
+  "version": "0.1.0",
+  "authors": [
+    "Tommy Leunen <tommy.leunen@gmail.com>"
+  ],
+  "description": "Closure Compiler externs for rsvp.js",
+  "main": "externs.js",
+  "keywords": [
+    "google",
+    "closure",
+    "compiler",
+    "rsvp.js",
+    "externs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tleunen/rsvp.js-externs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
