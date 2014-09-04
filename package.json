@@ -1,5 +1,5 @@
 {
-  "name": "rsvp.js-externs",
+  "name": "rsvp-externs",
   "version": "0.1.0",
   "description": "Closure Compiler externs for rsvp.js",
   "main": "externs.js",
